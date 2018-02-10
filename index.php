@@ -49,7 +49,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 	eventStarts = new Date(data["items"][i]["start"]["date"]);
                 }
              	var date = new Date()
-             	if(eventStarts > date){
+             	if(eventStarts => date){
              		month = months[eventStarts.getMonth()];
              		date = eventStarts.getDate();
              		info = data["items"][i].description;
