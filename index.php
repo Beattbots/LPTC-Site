@@ -215,6 +215,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 	<img src="images/Arrow.png" alt="" id="Button" class="TomButton">
+		<div align="center"><p>For full calendar see <a href="https://calendar.google.com/calendar/embed?src=lofjdpkf8618f8ussbovmjkehc%40group.calendar.google.com&ctz=Europe%2FDublin" target="_blank" style="background-color: white; float: none">the Google calendar</a></p></div>
 </div>
 <div class="footer">
 	<div class="container">
