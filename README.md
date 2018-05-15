@@ -54,7 +54,7 @@ Or talk to Richard at the Miscellaneous table during Coderdojo
 
 <h3>Security flaws and who found them</h3>
 <ul>
-  <li>Nobody yet</li>
+  <li>Jake Feeney - The existence of TestAddon which was meant to have been removed 15/05/2018</li>
 </ul>
 
 ## Developer Contacts:
