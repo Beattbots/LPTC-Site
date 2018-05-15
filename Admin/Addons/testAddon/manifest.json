@@ -1,9 +1,0 @@
-{
-	"name":"testAddon",
-	"description":"Part of BeattCMS",
-	"core": true,
-	"content_scripts":{
-			"matches":["test.php"],
-			"scripts":["testAddon.php"]
-	}
-}
